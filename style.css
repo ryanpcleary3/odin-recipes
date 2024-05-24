@@ -6,6 +6,8 @@
 body {
     background-color: #e1e6ed;
     color: #182e4d;
+    width: 700px;
+    margin: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,4 +17,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .title-image{
     width: 500px;
+}
+
+.description {
+    color: purple;
+}
+
+.ingredients {
+    color: darkred;
+}
+
+.steps {
+    color: darkgreen;
 }

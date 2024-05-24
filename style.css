@@ -3,6 +3,11 @@
     line-height: 1.3em;
 }
 
+body {
+    background-color: #e1e6ed;
+    color: #182e4d;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Trebuchet MS', sans-serif;
     color: hsl(0, 100, 200)

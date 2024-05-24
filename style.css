@@ -15,8 +15,16 @@ h1, h2, h3, h4, h5, h6 {
     color: hsl(0, 100, 200)
 }
 
-.title-image{
-    width: 500px;
+.title{
+    text-align:center;
+}
+
+.title h1 {
+    font-size: 30px;
+}
+
+.title img{
+    width: 100%;
 }
 
 .description {
@@ -30,3 +38,4 @@ h1, h2, h3, h4, h5, h6 {
 .steps {
     color: darkgreen;
 }
+
